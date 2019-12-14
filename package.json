@@ -1,0 +1,11 @@
+{
+  "name": "checkinbot",
+  "version": "1.0.0",
+  "description": "F1 Esports Bot to track Driver Check Ins",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
